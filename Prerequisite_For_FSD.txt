@@ -1,0 +1,89 @@
+FULL STACK Developer:
+
+	FULL STACK DEVELOPER is an engineer who works on both client-side and server-side software. 
+	This type of software developer works on the Full Stack of an application meaning Front End Technology, 
+	Back End Development Languages, Database, Server, API, and version Controlling Systems. 
+	Hence, the name "Full Stack" Developer.
+
+FULL STACK Development Roadmap:(According to Me(HARI😂😂))
+			||
+			||
+			||
+			\/
+
+Front End Development:
+
+
+--->	HTML
+--->	CSS
+--->	JavaScript
+--->	jQuery
+--->	PHP
+--->	JS Promises and async/await
+--->	JavaScript Frameworks	(CHOOSE ANYONE)
+	->>>	ReactJS
+	->>>	AngularJS
+--->	AJax
+
+
+
+Backend Development:
+
+
+->>>	Nodejs Basics
+->>>	ExpressJS Basics
+->>>	MySQL with Node js
+->>>	MongoDB
+->>>	Redis
+->>>	Server like Apache
+
+Common knowledge:
+
+--->	Json
+-->>	RESTful API
+-->>	CRUD functions
+-->>	Git and Version Control Systems
+
+Software Stack:
+
+
+	Software stack is a collection of the programs which are used together to produce a specific result. 
+	It includes an operating system and its application. 
+	For example, a smartphone software stack includes OS along with the phone app, web browsers, and default applications.
+
+	The above list of skill sets for a full stack engineer could be daunting. 
+	You need to master a software stack based on your career goals, project and company requirement. 
+	Following is a list of popular software stacks.
+
+	Irrespective of the stack you choose, you will find similarities in the architecture and 
+	design patters across different stacks
+	
+	
+-->>	LAMP stack
+
+			LAMP is a widely used model for web service stacks. 
+			Its name "LAMP" is an acronym of four open-source components.
+			Many popular websites and web applications run on LAMP stack, Example: Facebook.
+				L= Linux: An open source operating system
+				A= Apache: Widely used web server software
+				M= MySQL: Popular open source database
+				P=PHP: Server-side open source scripting language
+				
+-->>	MERN stack
+
+			MERN is a collection of JavaScript-based technologies:
+			This stack currently in the huge demand as it is widely used to develop web applications.
+				M=MongoDB: Popular NoSQL database
+				E=Express: Light and portable web program framework
+				R=React: A javascript library for building user interfaces
+				N=Node.js: A server-side JavaScript run time
+
+-->>	MEAN stack
+
+			MEAN Stack Application Development is witnessing a growing trend in usage. 
+			MEAN is an abbreviation of:
+				M = MongoDB: nosql Database
+				E = Express: Easy to use light and portable web program framework
+				A = Angular.js: Robust framework for developing HTML5 and JavaScript- web programs
+				N = Node.is: a server-side JavaScript run time
+				
